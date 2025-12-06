@@ -633,7 +633,12 @@ Continue? [Y/N]
 
 ---
 
-**この記事が面白かったら、LGTM で応援してください!**
-**コメントで「次はどのボスを倒してほしいか」教えてください!**
+## 作者より
 
-Happy Coding!
+この記事は**Qiita CLI**を使って執筆・管理しています!
+記事のソースコードは GitHub で公開中:
+
+👉 **[https://github.com/masvc/qiita](https://github.com/masvc/qiita)**
+
+GitHub にプッシュすると自動的に Qiita に反映される便利な仕組みです。
+気になる方はぜひリポジトリを覗いてみてください!
