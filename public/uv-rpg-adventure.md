@@ -2,13 +2,13 @@
 title: 【RPG風】venv魔王を倒せ!伝説の剣「uv」でPython開発を救う冒険
 tags:
   - Python
-  - 初心者
-  - uv
   - 環境構築
+  - 初心者
+  - UV
   - RPG
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-12-06T15:58:29+09:00'
+id: 1c6961fbdab2062577c5
 organization_url_name: null
 slide: false
 ignorePublish: false
